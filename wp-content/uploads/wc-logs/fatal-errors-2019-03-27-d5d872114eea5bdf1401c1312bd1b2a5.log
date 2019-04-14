@@ -1,0 +1,10 @@
+2019-03-27T13:41:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php en la línea 189
+
+2019-03-27T13:42:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\wp-includes\wp-db.php en la línea 2888
+
+2019-03-27T13:43:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\wp-includes\wp-db.php en la línea 2007
+
+2019-03-27T13:44:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\wp-includes\wp-db.php en la línea 2007
+
+2019-03-27T13:47:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php en la línea 189
+

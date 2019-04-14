@@ -1,0 +1,44 @@
+04-13-2019 @ 16:51:11 - WC_Gateway_PPEC_IPS_Handler::maybe_received_credentials: returned back from IPS flow with parameters: Array
+(
+    [page] => wc-settings
+    [tab] => checkout
+    [section] => ppec_paypal
+    [env] => live
+    [wc_ppec_ips_admin_nonce] => b337f25ea7
+    [merchantId] => 1b1e477d1e2c7361b2e976b17d5b87e2
+    [merchantPayerId] => KYYRCSZ6H3GDA
+    [api_style] => signature
+    [api_username] => suaresdiego1409_api1.gmail.com
+    [api_password] => YWB4T33MNXBUTDZZ
+    [signature] => AQTo7-jGcJ14pSanENw67ZRigHYfAq9iUez2JMXl9hj7pI-YCDuTxIEp
+)
+
+04-13-2019 @ 16:51:11 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => suaresdiego1409_api1.gmail.com
+    [PWD] => YWB4T33MNXBUTDZZ
+    [SIGNATURE] => AQTo7-jGcJ14pSanENw67ZRigHYfAq9iUez2JMXl9hj7pI-YCDuTxIEp
+)
+
+04-13-2019 @ 16:51:16 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => KYYRCSZ6H3GDA
+    [LOCALE] => es_XC
+    [TIMESTAMP] => 2019-04-13T21:51:13Z
+    [CORRELATIONID] => f51be4ce4faff
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 52273553
+)
+
+04-13-2019 @ 16:51:16 - WC_Gateway_PPEC_IPS_Handler::maybe_received_credentials: returned back from IPS flow: Array
+(
+    [0] => Array
+        (
+            [success] => ¡Conseguido! Tu cuenta de PayPal se ha configurado correctamente.
+        )
+
+)
+
